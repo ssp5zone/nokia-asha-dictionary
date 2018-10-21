@@ -2,6 +2,8 @@
 
 An offline English dictionary app written for __Low RAM__ devices. This can be slightly modified to run on some smart watches too.
 
+![](/docs/demo.gif)
+
 ## Working
 
 The App uses `Skipped Partition Mapping` to look for a word and get its meaning. Dont worry, the term is unnecessarily complicated, what it does is fairly simple as explained below. 
