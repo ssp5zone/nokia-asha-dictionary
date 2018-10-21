@@ -1,6 +1,6 @@
 # Nokia Asha Offline Dictionary
 
-An offline English dictionary app written for Low RAM devices. This can be slightly modified to run on some smart watches too.
+An offline English dictionary app written for __Low RAM__ devices. This can be slightly modified to run on some smart watches too.
 
 ## Working
 
