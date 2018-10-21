@@ -4,7 +4,7 @@ An offline English dictionary app written for __Low RAM__ devices. This can be s
 
 ## Working
 
-The App uses `Skipped Partition Mapping` to look for a word and get its meaning. The term is unnecessary, what it does is fairly simple as explained below. 
+The App uses `Skipped Partition Mapping` to look for a word and get its meaning. Dont worry, the term is unnecessarily complicated, what it does is fairly simple as explained below. 
 
 First we got the entire dictonary from [Project Gutenberg - Webster's Dictonary](https://www.gutenberg.org/).
 
